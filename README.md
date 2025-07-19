@@ -1,35 +1,40 @@
-# 🚗 Mu Kia - Animated Car Experience Website
+# 🔥 Yo, Meet KAI — My First Animation Drop!
 
-**Mu Kia** is a sleek, animated website built to showcase car models in a stunning, interactive, and responsive format. Inspired by futuristic automotive UI/UX, the project leverages modern web animations and design to deliver an immersive browsing experience.
+Welcome to **KAI** — my first-ever animation experiment, built purely out of curiosity and creative exploration!  
+This is an animated website that blends **2D and 3D animations** to create a minimal yet classy user experience.
 
-## 🌐 Live Demo
-
-🔗 [Visit Mu Kia Website](file:///Users/arishsingh/Library/Mobile%20Documents/com~apple~CloudDocs/experiments%20/index.html)
-
----
-
-
-## ✨ Features
-
-- 🌀 Smooth Scroll and Parallax Animations  
-- 🚘 Animated Car Transitions & Slides  
-- 🎨 Modern UI with Responsive Design  
-- 🌓 Dark/Light Mode Toggle  
-- ⏱️ Scroll-based Animation Trigger  
-- 🧩 Interactive Car Model Info Cards  
-- 📱 Fully Responsive on Mobile, Tablet & Desktop
+> ⚠️ Note: **KAI** is an open-source character (not originally mine).  
+From next time, I'll be designing my **own custom characters**, so stay tuned! 👀
 
 ---
 
-## 🛠️ Built With
 
-- **HTML5** – Structure & Semantics  
-- **CSS3 / SCSS** – Custom Animations & Styling  
-- **JavaScript (Vanilla or GSAP)** – Animation Engine  
-- **ScrollTrigger / Lottie / AOS** – (optional) For advanced effects  
-- **Figma / Adobe XD** – UI Design Planning
+## 🎯 Highlights
+
+- 🎥 **Integrated 2D & 3D Animations** using Spline
+- 💡 Designed with **minimalist yet modern UI**
+- ⚡ Smooth transitions and scroll effects
+- 🖼️ Classy color palette with futuristic vibes
+- 🎨 Animation-driven storytelling on the web
 
 ---
 
-## 📁 Folder Structure
+## 🎨 Tools & Tech Stack
+
+- **HTML5 + CSS3 + JavaScript**
+- **Spline** – for creating 2D/3D animated characters
+- **GSAP / AOS (optional)** – for advanced scroll animations
+- **Figma** – for visual planning and design
+- **Shery.js (optional)** – interaction and camera-based effects
+
+---
+
+## 💬 About the Build
+
+This page was all about learning **how to integrate Spline’s 3D magic into real-world web design**.  
+Instead of going heavy on UI clutter, I kept things minimal, letting the animation and vibe speak for themselves.
+
+From **next projects**, I’ll be designing and animating **my own characters**, giving my websites a personal, original feel. 💫
+
+---
 
